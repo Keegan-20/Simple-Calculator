@@ -6,6 +6,10 @@ This is a simple calculator app that performs basic arithmetic operations such a
 To get started, simply clone or download the repository to your local machine:
 ` https://github.com/Keegan-20/Simple-Calculator.git `
 
+## Screenshot
+ ![Output](/calculatorImg.PNG "Basic Calculator Screenshot")
+
+
 ### Usage
 To use the calculator, simply open the index.html file in your web browser.
 
